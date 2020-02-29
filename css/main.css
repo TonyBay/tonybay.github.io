@@ -973,7 +973,7 @@ pre .javascript .function {
 }
 .site-title {
   display: inline-block;
-  font-family: 'ZCOOL XiaoWei', 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Merriweather', 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 1.375em;
   font-weight: normal;
   line-height: 1.5;
@@ -1161,7 +1161,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #8f65b5;
+  background: #4f95ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
