@@ -4,6 +4,7 @@
     <title>免费阅读大西洋月刊的网上内容</title>
     <url>/eureka/how-to-read-the-atlantic-free/</url>
     <content><![CDATA[<p>The Atlantic，一个存活了一百六十多年，同时还保留着不错口碑的杂志。这两年他们的线上订阅做的越来越好，当然，也有每月只能免费阅读5篇文章的限制。依托其旗下每个工作日更新的Newsletters，可以轻松实现其内容的免费阅读。</p>
+<a id="more"></a>
 <p>原理很简单，从Newsletters点进去的文章可以实现免费阅读，方式就是粗旷的在url里加了个参数，也就是说，<strong>在任何一篇文章链接后，附上这一段订阅信息，就可以实现会员观看的效果</strong>。</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">?silverid&#x3D;%%RECIPIENT_ID%%</span><br></pre></td></tr></table></figure>
 <p>另外，只要将这个链接末尾的日期稍作更改，就可以看到往期杂志的电子内容，二者结合，与实际的会员效果相差无几。</p>
